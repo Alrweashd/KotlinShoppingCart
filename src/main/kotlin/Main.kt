@@ -67,7 +67,7 @@ fun addToCart(
 }
 
 /**
- * Removes [quantity] of [productId] from [cart], restoring the same amount to [storeInventory].
+ * Removes [quantity]  of [productId] from [cart], restoring the same amount to [storeInventory].
  * - If cart has enough of this product, remove it and restore stock.
  * - Return true if successful, false otherwise.
  */
